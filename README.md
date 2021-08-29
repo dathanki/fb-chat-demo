@@ -1,5 +1,5 @@
 # Live Deployment 
-Deployed using [Firebase hosting](https://fb-messenger-chat-demo.web.app/).
+Deployed using [Netlify](https://stoic-brown-964d52.netlify.app/).
 
 -----------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
